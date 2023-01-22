@@ -1,0 +1,60 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<table>
+	<day day_of_week="Вт">
+		<lesson>
+			<week_type>нечётная неделя</week_type>
+			<time_start>08:20</time_start>
+			<time_end>09:50</time_end>
+			<groups>3, 7, 9, 11, 13, 15, 17</groups>
+			<corpus>ул.Ломоносова, д.9, лит. М</corpus>
+			<room></room>
+			<subject>Информатика(Лек): Актовый зал</subject>
+			<teacher>Балакшин Павел Валерьевич</teacher>
+			<lesson_format>Очно - дистанционный </lesson_format>
+		</lesson>
+		<lesson>
+			<week_type>чётная неделя</week_type>
+			<time_start>10:00</time_start>
+			<time_end>11:30</time_end>
+			<groups>2, 4, 6, 8, 10, 12, 14, 16</groups>
+			<corpus>Кронверкский пр., д.49, лит.А</corpus>
+			<room>2332 (бывш. 324) ауд.</room>
+			<subject>Основы профессиональной деятельности(Лаб)</subject>
+			<teacher>Перцев Тимофей Сергеевич</teacher>
+			<lesson_format>Очно - дистанционный </lesson_format>
+		</lesson>
+		<lesson>
+			<week_type>нечётная неделя</week_type>
+			<time_start>10:00</time_start>
+			<time_end>11:30</time_end>
+			<groups>3, 7, 9, 11, 13, 15, 17</groups>
+			<corpus>ул.Ломоносова, д.9, лит. М</corpus>
+			<room></room>
+			<subject>Основы профессиональной деятельности(Лек): Актовый зал</subject>
+			<teacher>Клименков Сергей Викторович</teacher>
+			<lesson_format>Очно - дистанционный </lesson_format>
+		</lesson>
+		<lesson>
+			<week_type>нечётная неделя</week_type>
+			<time_start>11:40</time_start>
+			<time_end>13:10</time_end>
+			<groups>3, 7, 9, 11, 13, 15, 17</groups>
+			<corpus>ул.Ломоносова, д.9, лит. М</corpus>
+			<room>1223 ауд.</room>
+			<subject>Программирование(Лек)</subject>
+			<teacher>Письмак Алексей Евгеньевич</teacher>
+			<lesson_format>Очно - дистанционный </lesson_format>
+		</lesson>
+		<lesson>
+			<week_type>чётная неделя</week_type>
+			<time_start>11:40</time_start>
+			<time_end>13:10</time_end>
+			<groups>2, 4, 6, 8, 10, 12, 14, 16</groups>
+			<corpus>Кронверкский пр., д.49, лит.А</corpus>
+			<room>2332 (бывш. 324) ауд.</room>
+			<subject>Основы профессиональной деятельности(Лаб)</subject>
+			<teacher>Перцев Тимофей Сергеевич</teacher>
+			<lesson_format>Очно - дистанционный </lesson_format>
+		</lesson>
+	</day>
+</table>
